@@ -1,0 +1,23 @@
+{
+  "name": "ps-react",
+  "author": {
+    "name": "Ismail Arafa",
+    "email": "me@l0rdcafe.com",
+    "url": "http://www.l0rdcafe.com"
+  },
+  "version": "0.1.0",
+  "main": "./index.js",
+  "keywords": [
+    "components",
+    "react",
+    "react-component",
+    "toolkit",
+    "pluralsight"
+  ],
+  "homepage": "http://l0rdcafe.github.io/cc-ss-components/",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "styled-components": "^1.4.5"
+  }
+}
